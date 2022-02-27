@@ -10,7 +10,7 @@
 // @require     https://gitcdn.link/repo/fuzetsu/userscripts/b38eabf72c20fa3cf7da84ecd2cefe0d4a2116be/wait-for-elements/wait-for-elements.js
 // @updateURL   https://raw.githubusercontent.com/yusa-ai/youtube-scroll-wheel-mute/main/youtube-scroll-wheel-mute.user.js
 // @downloadURL https://raw.githubusercontent.com/yusa-ai/youtube-scroll-wheel-mute/main/youtube-scroll-wheel-mute.user.js
-// @supportURL  https://raw.githubusercontent.com/yusa-ai/youtube-scroll-wheel-mute/issues
+// @supportURL  https://github.com/yusa-ai/youtube-scroll-wheel-mute/issues
 // ==/UserScript==
 
 (() => {
