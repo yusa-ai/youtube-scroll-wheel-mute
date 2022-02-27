@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name        YouTube Scroll Wheel Mute
+// @icon        https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg
 // @namespace   https://github.com/yusa-ai
 // @match       *://www.youtube.com/*
 // @grant       none
-// @version     1.0
+// @version     1.0.1
 // @author      yusa-ai
 // @license     MIT
 // @description Toggles player mute state on mouse middle (scroll wheel) click
